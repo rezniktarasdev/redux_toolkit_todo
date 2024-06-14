@@ -1,3 +1,3 @@
-# Code from course Mikhail Nepomniashchii
+#Code from courseMikhail Nepomniashchii
 
-[Видео Redux-toolkit Todo-App](https://www.youtube.com/watch?v=C0fBnil_Im4)
+[Видео Redux-toolkit Todo-App](https://www.youtube.com/watch?v=C0fBnil_Im4)   
